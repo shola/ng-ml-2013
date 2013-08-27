@@ -1,0 +1,20 @@
+Hello Mike Situ!
+
+Welcome to HCI online. The class started March 31st. The course runs nine weeks, wrapping up in late May. Each week offers a series of short video lectures that embed questions to help you make sure you're understanding the material. Four summative quizzes will test your mastery. And the course features a class-long design project that builds over six assignments and enables you to try out your HCI skills.
+
+This class offers two main tracks: an apprentice track for those that keep up with lectures and do well on the quizzes, and a studio track for those that also do well on the design assignments. Also, students who received an apprentice or studio certificate in the last run of the course have the option of “studio practicum”. This enables students to practice their design skills and get feedback from peers (without needing to retake the quizzes). You don't need to pick a track. The course will automatically provide you the Statement of Accomplishment that you earn based on the work you submit. For more information about tracks, and to get started, see http://hci-class.org/.
+
+Please check the assignment and quiz deadlines on the Calendar and Syllabus page. Depending on when you enroll, you may not be eligible for a certificate. More information can be found on the Tracks, Grading, and Statements of Accomplishment page. 
+
+To enable you to do open-ended design projects and practice the techniques you’ll learn, we have introduced self and peer assessment. We’ve worked with Coursera to create new software for you to assess each other’s work. This enables us to offer exciting, open-ended projects that I think you'll really enjoy; it also gives you a chance to learn from viewing and critiquing your peers’ work and receiving critique of your work. Previous students have found this extremely valuable.
+
+There are two important things to know about peer assessment:
+
+1) For the logistics to work, all project assignments have a hard deadline. If you have upcoming travel or other scheduling issues, you can submit early. But there is no way for anyone to submit late, under any circumstances. 
+
+2) The peer assessment system is new and experimental. In fact, we created it for this class. Coursera has worked incredibly hard to produce great software, and they've done a wonderful job. But this is still unquestionably prototype software. And a big experiment in online education. To make this work, we'll need your enthusiasm, help, flexibility, and forgiving attitude. For you and your fellow students to have a great learning experience -- and to enable peer assessment to spread to more classes -- it's very important that you take peer assessment seriously.
+
+To complete all the work for the studio track, you should commit about 10 hours per week. This includes project work, peer assessment, videos, and quizzes. For the apprentice track, commit 4-5 hours per week for the videos and quizzes.
+
+Finally, in response to the global interest in this course, we are excited to announce a continuation of our Spanish language option. Students can submit assignments in Spanish, as well as perform and receive assessment from the Spanish-language pool. In addition, some materials will be translated into Spanish, though most will remain in English. ¡Bienvenidos!
++scott 

@@ -1,0 +1,165 @@
+
+FW: Curve tracer
+Roger Watkins <rwatkins@grundtech.com>
+Tue 6/4/2013 10:03 AM
+To:
+Mike Situ;
+You replied on 6/5/2013 1:04 PM.
+Hi Mike,
+
+Below is a lead we have at NVIDIA. I originally sent it to Bret as I wasn't sure who looked after what area. We haven't heard anything from Lim since we submitted the quote.
+
+Thanks,
+
+Roger
+Grund Technical Solutions, LLC
+510-453-2617
+
+
+-----Original Message-----
+From: Roger Watkins
+Sent: Thursday, May 23, 2013 5:35 PM
+To: bretmcdonald@tritechsolutions.com
+Subject: FW: Curve tracer
+
+Hi Bret,
+
+This is the opportunity we have having the bay area.
+
+Lim used to work with us at Oryx in Fremont. We believe the competition to be the Megatrace. Lim wouldn't say who else was quoting. It seems to be a need though.
+
+Cheers,
+
+Roger
+________________________________________
+From: Roger Watkins
+Sent: Wednesday, May 15, 2013 9:29 AM
+To: Chor Lim
+Subject: RE: Curve tracer
+
+Hi Lim,
+
+Sorry I was not able to meet with you last week. We reviewed your requirements for a VI tester and I have attached a quote.
+
+Please let me know if you have any questions at all.
+
+Best regards,
+
+Roger
+Grund Technical Solutions, LLC<http://www.grundtech.com/>
+510-453-2617
+
+From: Chor Lim [mailto:chorl@nvidia.com]
+Sent: Monday, May 06, 2013 8:55 AM
+To: Roger Watkins
+Subject: RE: Contact
+
+Hi Roger,
+
+So sorry for replying so late. We will let you choose the place. We pretty flexible with the time. Thanks. See you later.]
+
+
+Best Regards,
+
+Chor Tiong Lim
+
+
+
+From: Roger Watkins [mailto:rwatkins@grundtech.com]
+Sent: Wednesday, May 01, 2013 11:38 AM
+To: Chor Lim
+Subject: RE: Contact
+
+Hi Lim,
+
+No problem at all - Monday works well for us. Evan should be back from Germany and I know he wanted to see you guys so that works out well. Choose a place and time that suits you guys best and we'll see you there!
+
+Thanks,
+
+Roger
+Grund Technical Solutions, LLC<http://www.grundtech.com/>
+510-453-2617
+
+From: Chor Lim [mailto:chorl@nvidia.com]
+Sent: Wednesday, May 01, 2013 11:36 AM
+To: Roger Watkins
+Subject: RE: Contact
+
+Hi Roger,
+
+We can't make it this week. Is Monday a good time for you?
+
+Best Regards,
+
+Chor Tiong Lim
+
+
+
+From: Roger Watkins [mailto:rwatkins@grundtech.com]
+Sent: Tuesday, April 30, 2013 4:15 PM
+To: Chor Lim
+Subject: RE: Contact
+
+Hi Lim,
+
+Any update on getting together? We'd ideally need to chat before we can start work on the quote.
+
+Thanks,
+
+Roger
+Grund Technical Solutions, LLC<http://www.grundtech.com/>
+510-453-2617
+
+From: Chor Lim [mailto:chorl@nvidia.com]
+Sent: Friday, April 26, 2013 10:56 AM
+To: Roger Watkins
+Subject: RE: Contact
+
+Hi Roger,
+
+I will check with Tian about lunch next week. Basically, we need a tester that do curve trace only. Minimum pin count is 1400.
+
+
+Best Regards,
+
+Chor Tiong Lim
+
+
+
+From: Roger Watkins [mailto:rwatkins@grundtech.com]
+Sent: Friday, April 26, 2013 10:53 AM
+To: Chor Lim
+Cc: Kyle Grund; Evan Grund; Jorge Hernandez
+Subject: RE: Contact
+
+Hi Lim,
+
+Thanks for the opportunity to quote. We would ideally need more detail to be able to get you a detailed quote. Would you be able to meet for lunch next week to discuss? We haven't seen you for a while so it would be nice to catch up.
+
+Evan and Justin are both in Europe next week so it would be myself, Kyle and Jorge. Would Tian be able to join us too?
+
+It looks like our schedule is open next week although I would not be able to make Friday.
+
+Hopefully see you soon.
+
+Regards,
+
+Roger
+Grund Technical Solutions, LLC<http://www.grundtech.com/>
+510-453-2617
+
+From: Chor Lim [mailto:chorl@nvidia.com]
+Sent: Thursday, April 25, 2013 5:14 PM
+To: Roger Watkins
+Subject: RE: Contact
+
+Hi Roger,
+
+Sorry I did not get back to you sooner. My manager had just given me his requirement, 1400 pins VI tester. The pin count is just a reference, as long it somewhere around 1400, we are good.
+
+Could you provide me a quote for such tester? Thanks.
+
+
+Best Regards,
+
+Chor Tiong Lim
